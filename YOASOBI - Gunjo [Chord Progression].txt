@@ -1,0 +1,17 @@
+YOASOBI - Gunjo [Chord Progression]
+
+          1&     2&     3&     4&      
+Left1 -> |1,8   |1,8   |1,8   |1,8   
+Right -> |Chord |Chord |Chord |Chord
+
+(1)
+| Ebmaj7 	| Ebmaj7   	| D7	D7/F#	| Gm		    |
+| Ebmaj7 	| D7	D7/F#	| Gm		    | Bb/Ab	Bb	|
+| Ebmaj7 	| F7	F7/Eb	| D7 	D7/F#	| Gm 	Bb	  |
+| Ebmaj7 	| F		      |
+
+(A)
+| Ebmaj7	| Ebmaj7	| Bb		| Bb		    |
+| Ebmaj7	| F		    | Bb		| D7/F#	D7	|    
+
+
