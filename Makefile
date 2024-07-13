@@ -9,17 +9,17 @@ all: build run
 # Build target
 build:
 	@echo "Building the binary..."
-	@go build -o ${BINARY_NAME} $(SOURCE_FILES)
+	@go build -o ./bin/${BINARY_NAME} $(SOURCE_FILES)
 
 # Run target
 run: 
 	@echo "Running the program..."
-	@./${BINARY_NAME} 4 "./input.txt" "./output.txt"
+	@./bin/${BINARY_NAME} 4 "./test/input.txt" "./test/output.txt"
 
 # Clean target
 clean:
 	@echo "Cleaning up..."
-	@rm -f ${BINARY_NAME}
+	@rm -f ./bin/${BINARY_NAME}
 
 # Help target
 help:
