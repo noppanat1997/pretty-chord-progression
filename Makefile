@@ -14,7 +14,7 @@ build:
 # Run target
 run: 
 	@echo "Running the program..."
-	@./bin/${BINARY_NAME} 4 "./test/input.txt" "./test/output.txt"
+	@./bin/${BINARY_NAME} "2" "./test/input.txt" "./test/output.txt"
 
 # Clean target
 clean:
